@@ -1,8 +1,8 @@
-NAME:G aravind
+# NAME:G aravind
 
-REG NO:24003742
+# REG NO:24003742
 
-EXPERIMENT 3
+# EXPERIMENT 3
 # Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
