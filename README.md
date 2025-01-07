@@ -1,9 +1,8 @@
-# NAME:G aravind
+# NAME:G.ARAVIND
 
 # REG NO:24003742
 
-# EXPERIMENT 3
-# Uploading temperature sensor data in Thing Speak cloud
+# Ex-3 Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
@@ -102,14 +101,14 @@ void loop()
 }
 ~~~
 # CIRCUIT DIAGRAM:
-![Screenshot 2024-12-09 185712](https://github.com/user-attachments/assets/654c9c71-e638-4520-9cba-fab291203e4e)
-
-
+![Screenshot 2024-12-26 140252](https://github.com/user-attachments/assets/fe573641-489c-4f96-b92b-2f5cf5a14f9a)
 
 # OUTPUT:
-![Screenshot 2024-12-09 185724](https://github.com/user-attachments/assets/93502f67-abb8-4a9f-a28b-47c3c3cc273b)
+![Screenshot 2024-12-26 140048](https://github.com/user-attachments/assets/751a5a62-54ef-4d2e-a04c-d889c8f61db7)
 
+![Screenshot 2024-12-26 140101](https://github.com/user-attachments/assets/e928adde-8541-43ee-9be9-1f1d1db5e2f6)
 
 # RESULT:
 
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
+
